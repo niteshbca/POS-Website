@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="NiteshPro POS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1120" />
+      <stop offset="55%" stop-color="#121c30" />
+      <stop offset="100%" stop-color="#1b3274" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3366ff" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="1050" cy="120" r="240" fill="#3366ff" opacity="0.16" />
+  <circle cx="180" cy="560" r="220" fill="#8b5cf6" opacity="0.16" />
+  <rect x="80" y="96" width="72" height="72" rx="18" fill="url(#accent)" />
+  <path d="M104 148V116l24 24v-32" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="176" y="146" fill="#ffffff" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="40" font-weight="700">NiteshPro POS</text>
+  <text x="80" y="290" fill="#ffffff" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="62" font-weight="800">Run Your Business</text>
+  <text x="80" y="360" fill="#ffffff" font-family="Plus Jakarta Sans, Inter, sans-serif" font-size="62" font-weight="800">Smarter with <tspan fill="url(#accent)">NiteshPro POS</tspan></text>
+  <text x="80" y="430" fill="#c6d3e6" font-family="Inter, sans-serif" font-size="28">Sales · Inventory · Billing · Customers · Analytics · Multi-store</text>
+  <rect x="80" y="490" width="320" height="64" rx="32" fill="url(#accent)" />
+  <text x="240" y="530" fill="#ffffff" text-anchor="middle" font-family="Inter, sans-serif" font-size="24" font-weight="600">Book a Free Demo</text>
+</svg>

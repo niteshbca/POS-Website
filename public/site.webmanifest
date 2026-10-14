@@ -1,0 +1,17 @@
+{
+  "name": "NiteshPro POS Software",
+  "short_name": "NiteshPro POS",
+  "description": "NiteshPro POS Software - Billing, Inventory, GST, CRM & Business Management for Retail, Grocery, Pharmacy, Restaurant.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#121c30",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
